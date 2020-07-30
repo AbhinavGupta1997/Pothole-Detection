@@ -1,2 +1,2 @@
 # Pothole-Detection
-Classification between potholes and non-potholes
+Classification between potholes and non-pothole images.
